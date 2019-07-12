@@ -1,0 +1,22 @@
+{
+  "provinces":[
+    {"name":"北海道","level":"1","code":"010006","cities":[
+      {"name":"札幌市","level":"2","code":"011002"},
+      {"name":"函館市","level":"2","code":"012025"},
+      {"name":"小樽市","level":"2","code":"012033"}
+    ]},
+    {
+      "name":"青森県","level":"1","code":"020001","cities":[
+      {"name":"青森市","level":"2","code":"022012"},
+      {"name":"弘前市","level":"2","code":"022021"},
+      {"name":"八戸市","level":"2","code":"022039"}
+    ]},
+    {
+      "name":"岩手県","level":"1","code":"030007","cities":[
+      {"name":"盛岡市","level":"2","code":"032018"},
+      {"name":"宮古市","level":"2","code":"032026"},
+      {"name":"大船渡市","level":"2","code":"032034"}
+    ]}
+  ]
+}
+
